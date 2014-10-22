@@ -5,7 +5,7 @@ Tests importing the "pdehaan/flat-ui-colors" SCSS file via Bower.
 ## Installation:
 
 ```sh
-$ git clone ...
+$ git clone git@github.com:pdehaan/flat-ui-colors-test.git
 $ npm install # installs Node and Bower dependencies
 $ npm start # generates an app.css file from the app.scss file
 $ open index.html
