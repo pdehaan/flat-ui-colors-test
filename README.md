@@ -1,6 +1,6 @@
 # flat-ui color test
 
-Tests importing the "pdehaan/flat-ui-colors" SCSS file via Bower.
+Tests importing the [pdehaan/**flat-ui-colors**](https://github.com/pdehaan/flat-ui-colors) SCSS file via Bower.
 
 ## Installation:
 
