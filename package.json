@@ -1,0 +1,28 @@
+{
+  "name": "flat-ui-color-test",
+  "description": "Test Sass variables for flat-ui colors.",
+  "version": "1.0.0",
+  "author": "Peter deHaan <peter@deseloper.com> (http://nodeexamples.com/)",
+  "bugs": "https://github.com/pdehaan/flat-ui-colors-test/issues",
+  "dependencies": {
+    "node-sass": "1.0.1"
+  },
+  "devDependencies": {
+    "eslint": "0.8.2"
+  },
+  "homepage": "https://github.com/pdehaan/flat-ui-colors-test",
+  "keywords": [
+    "flat-ui",
+    "sass",
+    "scss"
+  ],
+  "license": "WTFPL",
+  "main": "index.js",
+  "repository": "pdehaan/flat-ui-colors-test.git",
+  "scripts": {
+    "postinstall": "bower install",
+    "start": "node index",
+    "test": "eslint .",
+    "scss-lint": "scss-lint *.scss"
+  }
+}

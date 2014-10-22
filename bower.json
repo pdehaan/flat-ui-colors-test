@@ -1,0 +1,25 @@
+{
+  "name": "flat-ui-color-test",
+  "main": "index.js",
+  "version": "1.0.0",
+  "authors": [
+    "Peter deHaan <peter@deseloper.com>"
+  ],
+  "description": "Test Sass variables for flat-ui colors.",
+  "keywords": [
+    "flat-ui",
+    "scss"
+  ],
+  "license": "WTFPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "flat-ui-colors": "pdehaan/flat-ui-colors"
+  }
+}

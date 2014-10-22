@@ -1,0 +1,21 @@
+@import 'bower_components/flat-ui-colors/flat-ui-colors';
+
+.success {
+  background-color: $turquoise;
+
+  &:hover {
+    background-color: lighten($turquoise, 10%);
+  }
+}
+
+.error {
+  background-color: $pomegranate;
+
+  &:hover {
+    background-color: lighten($pomegranate, 10%);
+  }
+}
+
+button {
+  font-size: 2em;
+}
